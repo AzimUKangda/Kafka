@@ -8,7 +8,7 @@ import java.util.Properties;
 
 
 
-public class CustomPartitioner {
+public class SensorProducer {
 
     public static void main(String[] args) throws Exception{
         String topicName = "sensortest1";
